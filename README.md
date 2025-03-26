@@ -59,8 +59,8 @@ InfluxDB, Cassandra, MongoDB, Postgres, MySQL, Kafka, gRPC, Kinesis.
 ---
 
 ## 🎓 **Certifications**  
-📜 [Java Basic - HackerRank](https://www.hackerrank.com/certificates/cee3ac5e3385) (Apr 2022)  
-📜 [REST API – Intermediate - HackerRank](https://www.hackerrank.com/certificates/45ef0987e088) (Apr 2022)  
+📜 [Java Basic - HackerRank](https://www.hackerrank.com/certificates/cee3ac5e3385){:target="_blank"} (Apr 2022)  
+📜 [REST API – Intermediate - HackerRank](https://www.hackerrank.com/certificates/45ef0987e088){:target="_blank"} (Apr 2022)  
 
 ---
 
@@ -98,8 +98,8 @@ InfluxDB, Cassandra, MongoDB, Postgres, MySQL, Kafka, gRPC, Kinesis.
 
 ## **Get in Touch**
 - [**GitHub Portfolio**](https://github.com/muthukumar-ramaiyah){:target="_blank"}
-- [**LinkedIn:**](https://www.linkedin.com/in/muthukumar-ramaiyah/){:target="_blank"}
-- [**Resume:**](https://drive.google.com/file/d/1BUlYYsa3Uac6pcYunobg-sw_THVOk2nt/view?usp=sharing){:target="_blank"}
+- [**LinkedIn**](https://www.linkedin.com/in/muthukumar-ramaiyah/){:target="_blank"}
+- [**Resume**](https://drive.google.com/file/d/1BUlYYsa3Uac6pcYunobg-sw_THVOk2nt/view?usp=sharing){:target="_blank"}
 
 ---
 
