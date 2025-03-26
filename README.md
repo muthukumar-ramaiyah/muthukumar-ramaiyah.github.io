@@ -96,9 +96,9 @@ InfluxDB, Cassandra, MongoDB, Postgres, MySQL, Kafka, gRPC, Kinesis.
 ---
 
 ## **Get in Touch**
-- **GitHub:** [GitHub](https://github.com/muthukumar-ramaiyah)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/muthukumar-ramaiyah/)
-- **Resume:** [Download](https://drive.google.com/file/d/1BUlYYsa3Uac6pcYunobg-sw_THVOk2nt/view?usp=sharing)
+- [**GitHub Portfolio**](https://github.com/muthukumar-ramaiyah)
+- [**LinkedIn:**](https://www.linkedin.com/in/muthukumar-ramaiyah/)
+- [**Resume:**](https://drive.google.com/file/d/1BUlYYsa3Uac6pcYunobg-sw_THVOk2nt/view?usp=sharing)
 
 ---
 
