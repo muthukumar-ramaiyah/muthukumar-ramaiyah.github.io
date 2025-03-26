@@ -6,19 +6,13 @@ Deliver highly scalable and efficient test automation solutions within a reasona
 ---
 
 ## **Significant Accomplishments**
-✔ Designed and implemented a functional testing framework for cybersecurity products using Python Robot.
-
-✔ Developed an API testing framework utilizing Vitest, PactumJS, and JavaScript.
-
-✔  Built network problem detection test automation that runs multiple times daily across environments.
-
-✔  Designed a framework simulating network anomalies using Protobuf/Avro messages (gRPC & gNMI) and injecting them into Kafka/Kinesis streams.
-
-✔  Created a non-functional test suite for microservices using the open-source Gatling framework, parameterizing input combinations such as simulations, user load, and traffic rate per second via Jenkins.
-
-✔  Developed an IoT integration defects dashboard using Python, Cloud JSON, and JavaScript, providing insights for 24-hour, 7-day, and 30-day runs.
-
-✔  Constructed a test metrics dashboard for the QA organization using AWS S3, RDS, and QuickSight to offer intuitive insights to senior management and various teams.
+- Designed and implemented a functional testing framework for cybersecurity products using Python Robot.
+- Developed an API testing framework utilizing Vitest, PactumJS, and JavaScript.
+-  Built network problem detection test automation that runs multiple times daily across environments.
+-  Designed a framework simulating network anomalies using Protobuf/Avro messages (gRPC & gNMI) and injecting them into Kafka/Kinesis streams.
+-  Created a non-functional test suite for microservices using the open-source Gatling framework, parameterizing input combinations such as simulations, user load, and traffic rate per second via Jenkins.
+-  Developed an IoT integration defects dashboard using Python, Cloud JSON, and JavaScript, providing insights for 24-hour, 7-day, and 30-day runs.
+-  Constructed a test metrics dashboard for the QA organization using AWS S3, RDS, and QuickSight to offer intuitive insights to senior management and various teams.
 
 ---
 
@@ -111,5 +105,6 @@ AWS (S3, ECS, EC2, QuickSight, RDS – Aurora, IAM, SQS, SNS, Lambda, Trusted Ad
 ## **Get in Touch**
 - **GitHub:** [GitHub](https://github.com/muthukumar-ramaiyah)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/muthukumar-ramaiyah/)
+- **Resume:** [Download](https://drive.google.com/file/d/1BUlYYsa3Uac6pcYunobg-sw_THVOk2nt/view?usp=sharing)
 
 Thank you for visiting my profile! 🚀
