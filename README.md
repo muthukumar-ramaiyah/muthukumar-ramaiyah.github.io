@@ -34,25 +34,26 @@ _Delivering scalable & efficient test automation solutions within budget & timel
   - **Gatling framework** (Scala) for performance testing.
   - **Middleware/Microservices API** tests using Java (Lombok, Feign).
 - Extensive experience in **framework development from scratch** using Java, Python, Selenium WebDriver, Ranorex, Silk Test, QTP, Sikuli, and Eggplant.
-- Proficiency in multi-browser testing using debugging tools such as **Selenium-JUnit and Cypress**.
-- Conducted multiple POCs for automation feasibility, including mobile automation using **Perfecto and QTP UFT Mobile**.
+- Proficiency in multi-browser testing using debugging tools such as **Selenium-JUnit and Cypress**.  
+- Conducted multiple POCs for automation feasibility, including mobile automation using **Perfecto and QTP UFT Mobile**.  
+
 ---
 
 ## 🛠 **Technical Skills**  
 
-### **🧪 Testing & Automation Tools**  
+#### **🧪 Testing & Automation Tools**  
 Cucumber, Specflow, Ranorex, Selenium WebDriver, QTP, Sikuli, Cypress, Eggplant, Gatling, Postman/Newman, Vitest, PactumJS.  
 
-### **💻 Programming Languages**  
+#### **💻 Programming Languages**  
 Java, JavaScript, Python, C#, C++, GoLang, NodeJS, SpringBoot.  
 
-### **🛠 Test Frameworks**  
+#### **🛠 Test Frameworks**  
 JUnit, TestNG, Cucumber, RestAssured, Gatling, Robot, Cypress, PactumJS.  
 
-### **☁ Cloud & DevOps**  
+#### **☁ Cloud & DevOps**  
 AWS (S3, ECS, EC2, RDS, Lambda, Kinesis, QuickSight), Google Cloud, Docker, Kubernetes.  
 
-### **🗃 Databases & Streaming Services**  
+#### **🗃 Databases & Streaming Services**  
 InfluxDB, Cassandra, MongoDB, Postgres, MySQL, Kafka, gRPC, Kinesis.  
 
 ---
